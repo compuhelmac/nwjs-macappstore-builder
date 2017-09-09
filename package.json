@@ -1,5 +1,5 @@
 {
-  "name": "nwjs-macappstore-builder",
+  "name": "nwjs-macappstore-builder-helmac",
   "version": "3.1.6",
   "description": "Easily build and publish NW.js apps on the Mac App Store.",
   "keywords": [
@@ -17,9 +17,9 @@
     "osx",
     "mac"
   ],
-  "homepage": "https://github.com/johansatge/nwjs-macappstore-builder",
+  "homepage": "https://github.com/compuhelmac/nwjs-macappstore-builder",
   "bugs": {
-    "url": "https://github.com/johansatge/nwjs-macappstore-builder/issues"
+    "url": "https://github.com/compuhelmac/nwjs-macappstore-builder/issues"
   },
   "license": "MIT",
   "author": {
@@ -35,7 +35,7 @@
   "bin": {
     "nwjs-macappstore-builder": "src/cli.js"
   },
-  "repository": "johansatge/nwjs-macappstore-builder",
+  "repository": "compuhelmac/nwjs-macappstore-builder",
   "dependencies": {
     "async": "^1.5.2",
     "colors": "^1.1.2",
